@@ -1,0 +1,10 @@
+{
+    "name": "test_dapper",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/category/nft/core-composable_nft": true,
+        "/framework/vanilla": true,
+        "/category/nft/core-composable_nft/template": "collectible"
+    }
+}
